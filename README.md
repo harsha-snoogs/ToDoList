@@ -1,3 +1,4 @@
+This web app was made in reference to the video on youtube channel Code Spot and video link https://www.youtube.com/watch?v=N8kYlimhuLw
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
