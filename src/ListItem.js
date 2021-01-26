@@ -7,7 +7,7 @@ function ListItem(props) {
   console.log(item);
   return (
     <div>
-      <FlipMove duration={500} easing="ease-in-out">
+      <FlipMove duration={300} easing="ease-in-out">
         {item.map((it) => {
           return (
             <div key={it.key} className="list">
